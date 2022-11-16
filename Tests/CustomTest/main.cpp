@@ -46,7 +46,7 @@ int main(int argc, const char * argv[])
     h.showForces = false;
     h.showJoints = true;
     
-    JointsTestManager simulationManager(1000.0);
+    CustomTestManager simulationManager(1000.0);
     sf::GraphicalSimulationApp app("CustomTest", std::string(DATA_DIR_PATH), s, h, &simulationManager);
     app.Run();
     
