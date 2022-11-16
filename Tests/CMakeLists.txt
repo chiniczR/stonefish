@@ -21,5 +21,5 @@ target_link_libraries(SlidingTest Stonefish_test)
 add_executable(UnderwaterTest UnderwaterTest/main.cpp UnderwaterTest/UnderwaterTestApp.cpp UnderwaterTest/UnderwaterTestManager.cpp)
 target_link_libraries(UnderwaterTest Stonefish_test)
 
-add_executable(CustomTest CustomTest/main.cpp CustomTest/UnderwaterTestManager.cpp)
+add_executable(CustomTest CustomTest/main.cpp CustomTest/CustomTestManager.cpp)
 target_link_libraries(CustomTest Stonefish_test)
