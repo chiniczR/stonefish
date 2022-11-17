@@ -28,23 +28,23 @@
 
 int main(int argc, const char * argv[])
 {
-    // sf::RenderSettings s;
-    // s.windowW = 800;
-    // s.windowH = 600;
-    // s.shadows = sf::RenderQuality::HIGH;
-    // s.ao = sf::RenderQuality::HIGH;
-    // s.atmosphere = sf::RenderQuality::HIGH;
-    // s.ocean = sf::RenderQuality::HIGH;
-    // s.aa = sf::RenderQuality::HIGH;
+    sf::RenderSettings s;
+    s.windowW = 800;
+    s.windowH = 600;
+    s.shadows = sf::RenderQuality::HIGH;
+    s.ao = sf::RenderQuality::HIGH;
+    s.atmosphere = sf::RenderQuality::HIGH;
+    s.ocean = sf::RenderQuality::HIGH;
+    s.aa = sf::RenderQuality::HIGH;
     
-    // sf::HelperSettings h;
-    // h.showFluidDynamics = false;
-    // h.showCoordSys = false;
-    // h.showBulletDebugInfo = false;
-    // h.showSensors = false;
-    // h.showActuators = false;
-    // h.showForces = false;
-    // h.showJoints = true;
+    sf::HelperSettings h;
+    h.showFluidDynamics = false;
+    h.showCoordSys = false;
+    h.showBulletDebugInfo = false;
+    h.showSensors = false;
+    h.showActuators = false;
+    h.showForces = false;
+    h.showJoints = true;
     
     CustomTestManager simulationManager(1000.0);
     sf::GraphicalSimulationApp app("CustomTest", std::string(DATA_DIR_PATH), s, h, &simulationManager);
