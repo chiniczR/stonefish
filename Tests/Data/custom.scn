@@ -121,7 +121,7 @@
 
 	<static name="Docking_station" type="model">
 		<physical>
-			<mesh filename="docking_station/docking_station.obj" scale="0.001"/>
+			<mesh filename="docking_station.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Aluminium"/>
@@ -172,7 +172,7 @@
 
 
 
-	 <static name="boat" type="model">
+	 <!-- <static name="boat" type="model">
 		<physical>
 			<mesh filename="models/Tug_boat_simple1.obj" scale="0.0005"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -180,7 +180,7 @@
 		<material name="Aluminium"/>
 		<look name="white"/>
 		<world_transform rpy="-1.57 0.0 0.0" xyz="20.0 0.0 0.8"/>
-	</static> 
+	</static>  -->
 
 
 
