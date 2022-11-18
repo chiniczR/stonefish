@@ -250,27 +250,27 @@
 	</static>	 -->
 
 
-		 <!-- <static name="rebeca6" type="model">
+		 <static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="Obj6.obj" scale="0.001"/>
-			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
-		</physical>
-		<material name="Polyamid"/>
-		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 2.5 7.7"/>
-	</static> -->
-
-
-
-		 <static name="rebeca7" type="model">
-		<physical>
-			<mesh filename="Obj7.obj" scale="0.002"/>
+			<mesh filename="Obj6.obj" scale="0.004"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 7.7"/>
 	</static>
+
+
+
+		 <!-- <static name="rebeca7" type="model">
+		<physical>
+			<mesh filename="Obj7.obj" scale="0.004"/>
+			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
+		</physical>
+		<material name="Polyamid"/>
+		<look name="Rebeca"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 7.7"/>
+	</static> -->
 	
 	<!-- <static name="Docking_station" type="model">
 		<physical>
@@ -666,7 +666,7 @@
 
 
 	<include file="sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 10.5"/>
+		<arg name="position" value="0.0 0.0 7.5"/>
 		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
 
 	</include>
