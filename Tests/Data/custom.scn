@@ -228,18 +228,18 @@
 	
 	
 	
-		 <!-- <static name="rebeca4" type="model">
+		 <static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="Obj4.obj" scale="0.001"/>
+			<mesh filename="Obj4.obj" scale="0.003"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="6.5 0.5 7.0"/>
-	</static>	 -->
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 7.7"/>
+	</static>	
 	
 	
-		 <static name="rebeca5" type="model">
+		 <!-- <static name="rebeca5" type="model">
 		<physical>
 			<mesh filename="Obj5.obj" scale="0.004"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -247,7 +247,7 @@
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 7.7"/>
-	</static>	
+	</static>	 -->
 
 
 		 <!-- <static name="rebeca6" type="model">
