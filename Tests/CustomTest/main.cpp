@@ -25,6 +25,7 @@
 
 #include <core/GraphicalSimulationApp.h>
 #include "CustomTestManager.h"
+#include <core/ScenarioParser.h>
 
 int main(int argc, const char * argv[])
 {

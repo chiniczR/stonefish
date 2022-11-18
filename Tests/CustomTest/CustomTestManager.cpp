@@ -25,6 +25,7 @@
 
 #include "CustomTestManager.h"
 
+#include <core/ScenarioParser.h>
 #include <entities/statics/Plane.h>
 #include <entities/solids/Box.h>
 #include <entities/solids/Sphere.h>
