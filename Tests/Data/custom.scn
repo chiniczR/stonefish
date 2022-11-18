@@ -269,7 +269,7 @@
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="3.5 0.5 7.7"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 7.7"/>
 	</static>
 	
 	<!-- <static name="Docking_station" type="model">
@@ -666,7 +666,7 @@
 
 
 	<include file="sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 8.5"/>
+		<arg name="position" value="0.0 0.0 10.5"/>
 		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
 
 	</include>
