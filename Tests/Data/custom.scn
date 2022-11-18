@@ -195,7 +195,7 @@
 
 	 <static name="rebeca1" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj1.obj" scale="0.001"/>
+			<mesh filename="Obj1.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Rock"/>
@@ -206,7 +206,7 @@
 	
 		 <static name="rebeca2" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj2.obj" scale="0.001"/>
+			<mesh filename="Obj2.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Rock"/>
@@ -218,7 +218,7 @@
 
 		 <static name="rebeca3" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj3.obj" scale="0.001"/>
+			<mesh filename="Obj3.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Rock"/>
@@ -230,7 +230,7 @@
 	
 		 <static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj4.obj" scale="0.005"/>
+			<mesh filename="Obj4.obj" scale="0.005"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -241,7 +241,7 @@
 	
 		 <static name="rebeca5" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj5.obj" scale="0.001"/>
+			<mesh filename="Obj5.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -252,7 +252,7 @@
 
 		 <static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj6.obj" scale="0.001"/>
+			<mesh filename="Obj6.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -264,7 +264,7 @@
 
 		 <static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="rebeca/Obj7.obj" scale="0.001"/>
+			<mesh filename="Obj7.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
