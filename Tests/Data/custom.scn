@@ -193,7 +193,7 @@
 	</static>
 
 
-	 <static name="rebeca1" type="model">
+	 <!-- <static name="rebeca1" type="model">
 		<physical>
 			<mesh filename="Obj1.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -201,10 +201,10 @@
 		<material name="Rock"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="5.0 0.0 7.7"/>
-	</static> 	
+	</static> 	 -->
 	
 	
-		 <static name="rebeca2" type="model">
+		 <!-- <static name="rebeca2" type="model">
 		<physical>
 			<mesh filename="Obj2.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -212,11 +212,11 @@
 		<material name="Rock"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 0.0 7.0"/>
-	</static> 
+	</static>  -->
 	
 
 
-		 <static name="rebeca3" type="model">
+		 <!-- <static name="rebeca3" type="model">
 		<physical>
 			<mesh filename="Obj3.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -224,22 +224,22 @@
 		<material name="Rock"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 0.5 6.5"/>
-	</static> 
+	</static>  -->
 	
 	
 	
-		 <static name="rebeca4" type="model">
+		 <!-- <static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="Obj4.obj" scale="0.005"/>
+			<mesh filename="Obj4.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="6.5 0.5 7.0"/>
-	</static>	
+	</static>	 -->
 	
 	
-		 <static name="rebeca5" type="model">
+		 <!-- <static name="rebeca5" type="model">
 		<physical>
 			<mesh filename="Obj5.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -247,10 +247,10 @@
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 1.5 7.7"/>
-	</static>	
+	</static>	 -->
 
 
-		 <static name="rebeca6" type="model">
+		 <!-- <static name="rebeca6" type="model">
 		<physical>
 			<mesh filename="Obj6.obj" scale="0.001"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
@@ -258,18 +258,18 @@
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
 		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 2.5 7.7"/>
-	</static>
+	</static> -->
 
 
 
 		 <static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="Obj7.obj" scale="0.001"/>
+			<mesh filename="Obj7.obj" scale="0.002"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="5.5 2.5 7.7"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="4.5 1.5 6.7"/>
 	</static>
 	
 	<!-- <static name="Docking_station" type="model">
