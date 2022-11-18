@@ -40,7 +40,7 @@
 	<looks>
 		<look name="white" gray="1.0" roughness="0.2"/>
 		<look name="black" gray="0.05" roughness="0.2"/>
-		<look name="hull" gray="1.0" roughness="0.3" texture="sparus2/hull_tex.png"/>
+		<look name="hull" gray="1.0" roughness="0.3" texture="hull_tex.png"/>
 		<look name="tank" rgb="0.9 0.9 0.9" roughness="0.9"/>
 		<look name="grey" gray="0.5" roughness="0.5" metalness="0.8"/>
 		<look name="seabed" rgb="0.7 0.7 0.5" roughness="0.9" texture="sand_normal.png"/>
@@ -50,14 +50,14 @@
 		<!--look name="seabed" rgb="0.7 0.7 0.5" roughness="0.9" texture="rock.jpg"/-->
 		<look name="marker0" gray="1.0" roughness="0.9" texture="aruco1.png"/>
 		<look name="aprilTag" gray="1.0" roughness="0.9" texture="artoolkitplus_0_tex.png"/>
-		<look name="docking_station" gray="1.0" roughness="0.3" texture="docking_station/docking_station.png"/>
-		<look name="reef2" gray="1.0" roughness="0.3" texture="reef2/Reef.jpg"/>
-		<look name="reef3" gray="1.0" roughness="0.3" texture="reef3/2019_sat.jpg"/>
+		<look name="docking_station" gray="1.0" roughness="0.3" texture="docking_station.png"/>
+		<!-- <look name="reef2" gray="1.0" roughness="0.3" texture="reef2/Reef.jpg"/>
+		<look name="reef3" gray="1.0" roughness="0.3" texture="reef3/2019_sat.jpg"/> -->
 		<look name="Red" rgb="1.0 0.1 0.1" roughness="0.3"/>
 		<look name="Green" rgb="0.1 1.0 0.1" roughness="0.3"/>
     	<look name="Yellow" rgb="1.0 0.9 0.0" roughness="0.3"/>
     	<!-- <look name="Rebeca" rgb="0.5 0.8 0.5" roughness="0.3"/> -->
-    	<look name="Rebeca" gray="1.0" roughness="0.3" texture="rock2.jpg"/>
+    	<!-- <look name="Rebeca" gray="1.0" roughness="0.3" texture="rock2.jpg"/> -->
 	</looks>
 
 
