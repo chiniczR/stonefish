@@ -665,12 +665,4 @@
 
 
 
-	<include file="$(find cola2_stonefish)/scenarios/sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 7.5"/>
-		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
-
-	</include>
-
-
-
 </scenario>
