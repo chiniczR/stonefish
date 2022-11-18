@@ -48,5 +48,5 @@ CustomTestManager::CustomTestManager(sf::Scalar stepsPerSecond)
 void CustomTestManager::BuildScenario()
 {
     sf::ScenarioParser parser(this);
-    parser.Parse(std::string(DATA_DIR_PATH) + "underwater_test.scn");
+    parser.Parse(std::string(DATA_DIR_PATH) + "sparus2_haifa_seafloor.scn");
 }
