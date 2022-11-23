@@ -274,12 +274,12 @@
 
 	<static name="rebeca8" type="model">
 		<physical>
-			<mesh filename="cone.obj" scale="1"/>
+			<mesh filename="cone2.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.75"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 8.0"/>
 	</static>
 
 	<static name="Bottom" type="plane">
