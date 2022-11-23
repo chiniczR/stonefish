@@ -257,7 +257,7 @@
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 6.0"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.25"/>
 	</static>
 
 
