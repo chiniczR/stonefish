@@ -291,7 +291,7 @@
 
 
 	<include file="sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 9.0"/>
+		<arg name="position" value="0.0 0.0 8.8"/>
 		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
 
 	</include>
