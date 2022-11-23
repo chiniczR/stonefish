@@ -264,12 +264,12 @@
 
 		 <static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="Obj7.obj" scale="0.004"/>
+			<mesh filename="Obj7.obj" scale="0.005"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.5"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 8.0"/>
 	</static>
 
 	<static name="Bottom" type="plane">
@@ -281,7 +281,7 @@
 
 
 	<include file="sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 8.0"/>
+		<arg name="position" value="0.0 0.0 9.0"/>
 		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
 
 	</include>
