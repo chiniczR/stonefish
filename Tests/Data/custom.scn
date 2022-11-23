@@ -262,9 +262,19 @@
 
 
 
-		 <static name="rebeca7" type="model">
+		 <!-- <static name="rebeca7" type="model">
 		<physical>
 			<mesh filename="Obj7.obj" scale="0.005"/>
+			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
+		</physical>
+		<material name="Polyamid"/>
+		<look name="Rebeca"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 8.0"/>
+	</static> -->
+
+	<static name="rebeca8" type="model">
+		<physical>
+			<mesh filename="GOPR0053.obj" scale="0.004"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
