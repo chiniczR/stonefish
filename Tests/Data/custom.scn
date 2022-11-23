@@ -200,7 +200,7 @@
 		</physical>
 		<material name="Rock"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 -7.7"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 0.5 6.0"/>
 	</static> 	
 	
 	
@@ -281,7 +281,7 @@
 
 
 	<include file="sparus2_haifa.scn">
-		<arg name="position" value="0.0 0.0 -7.5"/>
+		<arg name="position" value="0.0 0.0 8.0"/>
 		<!-- <arg name="position" value="0.0 -30.0 2.5"/> -->
 
 	</include>
