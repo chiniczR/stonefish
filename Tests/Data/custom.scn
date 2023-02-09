@@ -284,7 +284,7 @@
 
 	<static name="rebeca8" type="model">
 		<physical>
-			<mesh filename="bear_1.obj" scale="1"/>
+			<mesh filename="car_1.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
