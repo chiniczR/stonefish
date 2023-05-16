@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "Imaginext_Castle_Ogre"
+description: "Imaginext Castle Ogre"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Fisher-Price"
+}
+annotations {
+  key: "gtin"
+  value: "00746775379209"
+}
+annotations {
+  key: "sku"
+  value: "746775379209"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Action Figures"
+}

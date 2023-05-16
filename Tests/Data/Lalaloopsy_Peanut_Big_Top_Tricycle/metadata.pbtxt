@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "Lalaloopsy_Peanut_Big_Top_Tricycle"
+description: "Lalaloopsy Peanut Big Top Tricycle"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "MGA"
+}
+annotations {
+  key: "gtin"
+  value: "00035051530411"
+}
+annotations {
+  key: "sku"
+  value: "35051530411"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

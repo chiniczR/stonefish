@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "HELICOPTER"
+description: "HELICOPTER\nThis little car has been designed to make it easy for small baby hands to push and play with. This series comes with Rescue Car, Fire Truck, and Helicopter."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5685"
+}
+annotations {
+  key: "sku"
+  value: "05685P00"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

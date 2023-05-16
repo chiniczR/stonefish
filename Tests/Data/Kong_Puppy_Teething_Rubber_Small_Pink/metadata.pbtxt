@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "Kong_Puppy_Teething_Rubber_Small_Pink"
+description: "Kong Puppy Teething Rubber, Small, Pink"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Kong"
+}
+annotations {
+  key: "gtin"
+  value: "00035585312057"
+}
+annotations {
+  key: "sku"
+  value: "00035585312057"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Consumer Goods"
+}
