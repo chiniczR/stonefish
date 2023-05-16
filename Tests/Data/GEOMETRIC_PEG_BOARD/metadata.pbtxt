@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "GEOMETRIC_PEG_BOARD"
+description: "GEOMETRIC PEG BOARD\nThese 16 geometrical pegs (4 different sizes,?shapes and colors) can be sorted, counted, and stacked on a sturdy wooden base."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5125"
+}
+annotations {
+  key: "sku"
+  value: "0512500"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
