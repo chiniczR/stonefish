@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "MINI_ROLLER"
+description: "MINI ROLLER\nFlatten out those bumps for a smooth ride! The roller on the front provides easy directional control."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "6318"
+}
+annotations {
+  key: "sku"
+  value: "0631801"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

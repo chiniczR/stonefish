@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "OWL_SORTER"
+description: "OWL SORTER\nGreat fun for children to sort 4 different shapes in the Owl. It also encourages children\357\277\275s recognition of colors and shapes as well as the development of hand-eye coordination."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5132"
+}
+annotations {
+  key: "sku"
+  value: "0513200"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
