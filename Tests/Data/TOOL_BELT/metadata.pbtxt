@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "TOOL_BELT"
+description: "TOOL BELT\nBuild a bridge or fix a door. This handy, children\357\277\275s tool belt fits up to a 25\357\277\275 waist. Includes a hammer, wrench, screwdriver, level tool, and a measuring tape. The fabric tool belt is hand and machine washable."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "3462"
+}
+annotations {
+  key: "sku"
+  value: "0346200"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
