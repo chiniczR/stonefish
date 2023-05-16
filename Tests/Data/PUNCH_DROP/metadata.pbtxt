@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "PUNCH_DROP"
+description: "PUNCH & DROP\nGreat fun for children to pound the balls until they drop and slide out."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "9424"
+}
+annotations {
+  key: "sku"
+  value: "0942402"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

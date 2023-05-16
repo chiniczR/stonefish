@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure"
+description: "Playmates Industrial Co.Splinter Teenage Mutant Ninja Turtle Action Figure"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Playmates Industrial Co."
+}
+annotations {
+  key: "gtin"
+  value: "00043377905059"
+}
+annotations {
+  key: "sku"
+  value: "00043377905059"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Action Figures"
+}

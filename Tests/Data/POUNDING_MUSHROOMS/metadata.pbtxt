@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "POUNDING_MUSHROOMS"
+description: "POUNDING MUSHROOMS\nPound the mushroom down and another one continuously comes up. Mushrooms can also be pressed down by hand. Helps develop hand-eye coordination."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5632"
+}
+annotations {
+  key: "sku"
+  value: "05632P00"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

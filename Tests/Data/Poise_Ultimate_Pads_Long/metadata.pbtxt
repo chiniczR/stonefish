@@ -1,0 +1,39 @@
+model {
+  file: "model.sdf"
+}
+name: "Poise_Ultimate_Pads_Long"
+description: "Poise Ultimate Pads Long\nDiscreet bladder protection. Leak-block sides. Absorb-loc core. Secure overnight protection. Fresh new look & dry-touch layer. Discreet and worry-free protection. Our most coverage Poise pad! Individually wrapped. Absorb-loc core quickly locks away wetness and odor. Dry-touch layer for your comfort. Leak-block sides for outstanding protection. Distributed in the USA. Made in the USA from domestic and imported material."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Kimberly Clark Corp."
+}
+annotations {
+  key: "gtin"
+  value: "00036000335934"
+}
+annotations {
+  key: "mpn"
+  value: "sku6096979"
+}
+annotations {
+  key: "sku"
+  value: "9286103_20130524_150297"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Consumer Goods"
+}
