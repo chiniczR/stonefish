@@ -1,0 +1,39 @@
+model {
+  file: "model.sdf"
+}
+name: "Court_Attitude"
+description: "Court Attitude"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Adidas"
+}
+annotations {
+  key: "gtin"
+  value: "887373258548"
+}
+annotations {
+  key: "mpn"
+  value: "g99393"
+}
+annotations {
+  key: "sku"
+  value: "G99393"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Shoe"
+}

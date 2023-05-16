@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "CREATIVE_BLOCKS_35_MM"
+description: "CREATIVE BLOCKS (35 MM.)\nBuild a castle or a city! Let your creativity take over!"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5527"
+}
+annotations {
+  key: "sku"
+  value: "0552701"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}

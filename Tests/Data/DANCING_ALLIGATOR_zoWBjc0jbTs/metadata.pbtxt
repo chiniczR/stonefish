@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "DANCING_ALLIGATOR_zoWBjc0jbTs"
+description: "DANCING ALLIGATOR\nWhile being pulled, the wooden pieces make rhythmic click-clack sounds."
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5105"
+}
+annotations {
+  key: "sku"
+  value: "0510504"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
