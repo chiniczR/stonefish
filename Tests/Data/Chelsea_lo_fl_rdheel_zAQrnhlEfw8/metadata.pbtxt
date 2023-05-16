@@ -1,0 +1,39 @@
+model {
+  file: "model.sdf"
+}
+name: "Chelsea_lo_fl_rdheel_zAQrnhlEfw8"
+description: "Chelsea lo fl rd.heel"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "Cole Haan"
+}
+annotations {
+  key: "gtin"
+  value: "682942579112"
+}
+annotations {
+  key: "mpn"
+  value: "d40573"
+}
+annotations {
+  key: "sku"
+  value: "682942579112"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Shoe"
+}

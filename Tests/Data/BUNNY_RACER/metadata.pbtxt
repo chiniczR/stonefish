@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "BUNNY_RACER"
+description: "BUNNY RACER\nHave great fun with Rabbit cars. They have gently curve design which is easy for children to hold and push"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5680"
+}
+annotations {
+  key: "sku"
+  value: "05680P00"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
