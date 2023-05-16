@@ -1,0 +1,35 @@
+model {
+  file: "model.sdf"
+}
+name: "SIT_N_WALK_PUPPY"
+description: "SIT N WALK PUPPY\nPull the Sit N Walk Puppy along and it will walk and sit just like a real puppy!"
+version: 1
+authors {
+  name: "Google"
+  email: "scanned-objects@google.com"
+}
+legal {
+  copyright: "Copyright 2020 Google LLC."
+  license: "Creative Commons Attribution 4.0 International"
+}
+annotations {
+  key: "brand"
+  value: "PlanToys"
+}
+annotations {
+  key: "mpn"
+  value: "5103"
+}
+annotations {
+  key: "sku"
+  value: "0510300"
+}
+compatibilities {
+  name: "Gazebo"
+  version {
+    major: 11
+  }
+}
+categories {
+  first: "Toys"
+}
