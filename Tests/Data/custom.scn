@@ -284,93 +284,93 @@
 
 	<static name="rebeca1" type="model">
 		<physical>
-			<mesh filename="2_of_Jenga_Classic_Game/meshes/model.obj" scale="1"/>
+			<mesh filename="BlackBlack_Nintendo_3DSXL/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.7"/>
 	</static>
 	<static name="rebeca2" type="model">
 		<physical>
-			<mesh filename="3D_Dollhouse_Refrigerator/meshes/model.obj" scale="1"/>
+			<mesh filename="Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-1 -1 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-1 -1 7.7"/>
 	</static>
 	<static name="rebeca3" type="model">
 		<physical>
-			<mesh filename="30_CONSTRUCTION_SET/meshes/model.obj" scale="1"/>
+			<mesh filename="BREAKFAST_MENU/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-1.5 -1.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-1.5 -1.5 7.7"/>
 	</static>
 	<static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="ACE_Coffee_Mug_Kristen_16_oz_cup/meshes/model.obj" scale="1"/>
+			<mesh filename="Breyer_Horse_Of_The_Year_2015/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-2 -2 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-2 -2 7.7"/>
 	</static>
 	<static name="rebeca5" type="model">
 		<physical>
-			<mesh filename="Android_Figure_Chrome/meshes/model.obj" scale="1"/>
+			<mesh filename="BUNNY_RACER/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-2.5 -2.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-2.5 -2.5 7.7"/>
 	</static>
 	<static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="Animal_Planet_Foam_2Headed_Dragon/meshes/model.obj" scale="1"/>
+			<mesh filename="CASTLE_BLOCKS/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-3 -3 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-3 -3 7.7"/>
 	</static>
 	<static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="Aroma_Stainless_Steel_Milk_Frother_2_Cup/meshes/model.obj" scale="1"/>
+			<mesh filename="Chelsea_lo_fl_rdheel_zAQrnhlEfw8/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="0 0 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="0 0 7.7"/>
 	</static>
 	<static name="rebeca8" type="model">
 		<physical>
-			<mesh filename="BABY_CAR/meshes/model.obj" scale="1"/>
+			<mesh filename="Circo_Fish_Toothbrush_Holder_14995988/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.7"/>
 	</static>
 	<static name="rebeca9" type="model">
 		<physical>
-			<mesh filename="BALANCING_CACTUS/meshes/model.obj" scale="1"/>
+			<mesh filename="Court_Attitude/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.7"/>
 	</static>
 	<static name="rebeca10" type="model">
 		<physical>
-			<mesh filename="BIRD_RATTLE/meshes/model.obj" scale="1"/>
+			<mesh filename="CREATIVE_BLOCKS_35_MM/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.7"/>
 	</static>
 
 
