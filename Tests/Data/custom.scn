@@ -284,7 +284,7 @@
 
 	<static name="rebeca1" type="model">
 		<physical>
-			<mesh filename="BlackBlack_Nintendo_3DSXL/meshes/model.obj" scale="1"/>
+			<mesh filename="Crosley_Alarm_Clock_Vintage_Metal/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -293,7 +293,7 @@
 	</static>
 	<static name="rebeca2" type="model">
 		<physical>
-			<mesh filename="Bradshaw_International_11642_7_Qt_MP_Plastic_Bowl/meshes/model.obj" scale="1"/>
+			<mesh filename="DANCING_ALLIGATOR_zoWBjc0jbTs/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -302,7 +302,7 @@
 	</static>
 	<static name="rebeca3" type="model">
 		<physical>
-			<mesh filename="BREAKFAST_MENU/meshes/model.obj" scale="1"/>
+			<mesh filename="Digital_Camo_Double_Decker_Lunch_Bag/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -311,7 +311,7 @@
 	</static>
 	<static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="Breyer_Horse_Of_The_Year_2015/meshes/model.obj" scale="1"/>
+			<mesh filename="Dino_3/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -320,7 +320,7 @@
 	</static>
 	<static name="rebeca5" type="model">
 		<physical>
-			<mesh filename="BUNNY_RACER/meshes/model.obj" scale="1"/>
+			<mesh filename="Dog/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -329,7 +329,7 @@
 	</static>
 	<static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="CASTLE_BLOCKS/meshes/model.obj" scale="1"/>
+			<mesh filename="DOLL_FAMILY/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -338,7 +338,7 @@
 	</static>
 	<static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="Chelsea_lo_fl_rdheel_zAQrnhlEfw8/meshes/model.obj" scale="1"/>
+			<mesh filename="Elephant/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -347,7 +347,7 @@
 	</static>
 	<static name="rebeca8" type="model">
 		<physical>
-			<mesh filename="Circo_Fish_Toothbrush_Holder_14995988/meshes/model.obj" scale="1"/>
+			<mesh filename="Fruity_Friends/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -356,7 +356,7 @@
 	</static>
 	<static name="rebeca9" type="model">
 		<physical>
-			<mesh filename="Court_Attitude/meshes/model.obj" scale="1"/>
+			<mesh filename="GARDEN_SWING/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -365,7 +365,7 @@
 	</static>
 	<static name="rebeca10" type="model">
 		<physical>
-			<mesh filename="CREATIVE_BLOCKS_35_MM/meshes/model.obj" scale="1"/>
+			<mesh filename="GEOMETRIC_PEG_BOARD/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
