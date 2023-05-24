@@ -352,7 +352,7 @@
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.63"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.68"/>
 	</static>
 	<static name="rebeca9" type="model">
 		<physical>
@@ -361,7 +361,7 @@
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.65"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.66"/>
 	</static>
 	<static name="rebeca10" type="model">
 		<physical>
@@ -370,7 +370,7 @@
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.65"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.62"/>
 	</static>
 
 
