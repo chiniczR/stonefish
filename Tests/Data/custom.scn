@@ -284,93 +284,93 @@
 
 	<static name="rebeca1" type="model">
 		<physical>
-			<mesh filename="GoPro_HERO3_Composite_Cable/meshes/model.obj" scale="1"/>
+			<mesh filename="LACING_SHEEP/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-0.5 -0.5 7.85"/>
 	</static>
 	<static name="rebeca2" type="model">
 		<physical>
-			<mesh filename="GRANDFATHER_DOLL/meshes/model.obj" scale="1"/>
+			<mesh filename="LADYBUG_BEAD/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-1 -1 7.88"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-1 -1 7.85"/>
 	</static>
 	<static name="rebeca3" type="model">
 		<physical>
-			<mesh filename="Granimals_20_Wooden_ABC_Blocks_Wagon_g2TinmUGGHI/meshes/model.obj" scale="1"/>
+			<mesh filename="Lalaloopsy_Peanut_Big_Top_Tricycle/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-1.5 -1.5 7.88"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-1.5 -1.5 7.85"/>
 	</static>
 	<static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="Kong_Puppy_Teething_Rubber_Small_Pink/meshes/model.obj" scale="1"/>
+			<mesh filename="Logitech_Ultimate_Ears_Boom_Wireless_Speaker_Night_Black/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-2 -2 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-2 -2 7.85"/>
 	</static>
 	<static name="rebeca5" type="model">
 		<physical>
-			<mesh filename="Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure/meshes/model.obj" scale="1"/>
+			<mesh filename="Marc_Anthony_Skip_Professional_Oil_of_Morocco_Conditioner_with_Argan_Oil/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-2.5 -2.5 7.9"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-2.5 -2.5 7.85"/>
 	</static>
 	<static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="HeavyDuty_Flashlight/meshes/model.obj" scale="1"/>
+			<mesh filename="Markings_Letter_Holder/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="-3 -3 7.79"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="-3 -3 7.85"/>
 	</static>
 	<static name="rebeca7" type="model">
 		<physical>
-			<mesh filename="HELICOPTER/meshes/model.obj" scale="1"/>
+			<mesh filename="Marvel_Avengers_Titan_Hero_Series_Doctor_Doom/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="0 0 7.87"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="0 0 7.85"/>
 	</static>
 	<static name="rebeca8" type="model">
 		<physical>
-			<mesh filename="Imaginext_Castle_Ogre/meshes/model.obj" scale="1"/>
+			<mesh filename="MINI_ROLLER/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.68"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="0.5 0.5 7.85"/>
 	</static>
 	<static name="rebeca9" type="model">
 		<physical>
-			<mesh filename="JA_Henckels_International_Premio_Cutlery_Block_Set_14Piece/meshes/model.obj" scale="1"/>
+			<mesh filename="Nickelodeon_Teenage_Mutant_Ninja_Turtles_Raphael/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.66"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1 1 7.85"/>
 	</static>
 	<static name="rebeca10" type="model">
 		<physical>
-			<mesh filename="Jansport_School_Backpack_Blue_Streak/meshes/model.obj" scale="1"/>
+			<mesh filename="Nikon_1_AW1_w11275mm_Lens_Silver/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
 		<look name="Rebeca"/>
-		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.62"/>
+		<world_transform rpy="0.0 0.0 0.0" xyz="1.5 1.5 7.85"/>
 	</static>
 
 
