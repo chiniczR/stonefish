@@ -311,7 +311,7 @@
 	</static>
 	<static name="rebeca4" type="model">
 		<physical>
-			<mesh filename="Paul_Frank_Dot_Lunch_Box/meshes/model.obj" scale="1"/>
+			<mesh filename="Racoon/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
@@ -329,7 +329,7 @@
 	</static>
 	<static name="rebeca6" type="model">
 		<physical>
-			<mesh filename="Markings_Letter_Holder/meshes/model.obj" scale="1"/>
+			<mesh filename="Retail_Leadership_Summit/meshes/model.obj" scale="1"/>
 			<origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/>
 		</physical>
 		<material name="Polyamid"/>
